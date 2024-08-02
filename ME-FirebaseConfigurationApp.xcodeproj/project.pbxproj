@@ -501,7 +501,6 @@
 		};
 		3B1605102C33DCC6004EB8E9 /* Development */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 5F540BB0494D7D464E6D6232 /* Pods-ME-FirebaseConfigurationApp.development.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
@@ -536,7 +535,6 @@
 		};
 		3B1605112C33DCC6004EB8E9 /* Staging */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 4AC32425763372B5D15D4A0E /* Pods-ME-FirebaseConfigurationApp.staging.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
@@ -638,7 +636,6 @@
 		};
 		3B88CC352C3D0524007453EA /* QA */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 4149E671897205F94987EDDF /* Pods-ME-FirebaseConfigurationApp.qa.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
@@ -734,7 +731,6 @@
 		};
 		3B88CC372C3D0535007453EA /* Production */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = A86FAE4C4287BBEC6EBBB321 /* Pods-ME-FirebaseConfigurationApp.production.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
